@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<divide.h>
-void main()
+void main()  
 {
 int a,b;
 int div;
