@@ -3,8 +3,8 @@
 void main()
 {
 int a,b;
-int c;
+int div;
 scanf("%d %d",&a,&b);
 divide(a,b);
-  printf("%d",c);
+  printf("%d" div);
 }
