@@ -4,7 +4,7 @@ if(x < y)
 printf("invalid");
 else
 {
-  int div=x/y;
+  int div=(x/y);
 }
 return div;
 }
