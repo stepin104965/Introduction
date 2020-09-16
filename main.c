@@ -6,4 +6,5 @@ int a,b;
 int c;
 scanf("%d %d",&a,&b);
 divide(a,b);
+  printf("%d",c);
 }
