@@ -6,3 +6,5 @@ else
 {
 div=x/y;
 }
+return div;
+}
