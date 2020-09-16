@@ -1,4 +1,4 @@
-div(int x,int y)
+int div(int x,int y)
 {
 if(x < y)
 printf("invalid");
