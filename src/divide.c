@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include"divide.h"
 int div(int x,int y)
 {
   int z;
