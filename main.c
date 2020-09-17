@@ -3,7 +3,7 @@
 int main()  
 {
 int a,b;
- float out;
+ float out=0.0;
 scanf("%d %d",&a,&b);
 div(a,b);
   printf("%f",out);
