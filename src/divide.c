@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include"divide.h"
-int div(int x,int y)
+int divi(int x,int y)
 {
   if(x < y)
 printf("invalid");
