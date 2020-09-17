@@ -4,7 +4,7 @@ void main()
 {
 int a,b,out;
 scanf("%d %d",&a,&b);
-div(a,b);
+divi(a,b);
   printf("%d",out);
 
 }
