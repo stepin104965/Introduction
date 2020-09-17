@@ -5,7 +5,7 @@ PROJECT_NAME = division
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = main.c\
 src/divide.c\
 
 
