@@ -1,11 +1,11 @@
 # Name of the project
-PROJECT_NAME = Introduction
+PROJECT_NAME = Divide
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = divide.c\
+SRC = main.c\
 src/divide.c\
 
 
