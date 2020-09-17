@@ -2,12 +2,11 @@
 #include"divide.h"
 int div(int x,int y)
 {
-  int z;
-if(x < y)
+  if(x < y)
 printf("invalid");
 else
 {
-  z=(x/y);
+ int z=(x/y);
 }
 return z;
 }
