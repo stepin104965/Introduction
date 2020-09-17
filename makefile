@@ -1,12 +1,12 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = division
 
 # Output directory
 BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/calculator_operations.c\
+src/divide.c\
 
 # All test source files
 TEST_SRC = src/calculator_operations.c\
