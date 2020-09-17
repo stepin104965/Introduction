@@ -2,7 +2,7 @@
 #include<divide.h>
 void main()  
 {
-int a,b,
+int a,b;
  float out;
 scanf("%d %d",&a,&b);
 div(a,b);
