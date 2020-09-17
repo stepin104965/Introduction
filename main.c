@@ -2,9 +2,10 @@
 #include<divide.h>
 void main()  
 {
-int a,b,out;
+int a,b,
+ float out;
 scanf("%d %d",&a,&b);
-divi(a,b);
+div(a,b);
   printf("%d",out);
 
 }
